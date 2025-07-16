@@ -1,6 +1,9 @@
 # Missionaries-and-Cannibals
 A simple game. This repository contains the backend logic of the game, implemented using Python.
 
+The visit to real game
+https://www.novelgames.com/en/missionaries/
+
 Run the game:
 (Run in any python based environment)
 python Missionary_&_Cannibals.py

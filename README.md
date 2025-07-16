@@ -2,7 +2,7 @@
 A simple game. This repository contains the backend logic of the game, implemented using Python.
 
 Run the game:
-#Run in any python based environment
+(Run in any python based environment)
 python Missionary_&_Cannibals.py
 
 📜 Missionaries-and-Cannibals

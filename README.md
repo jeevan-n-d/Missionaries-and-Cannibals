@@ -19,3 +19,6 @@ This project is licensed under the MIT License.
 
 ✨ Contributions
 Pull requests are welcome! Feel free to open an issue or suggest improvements.
+
+Running in the VS CODE:
+<img width="435" height="236" alt="Screenshot 2025-07-16 203419" src="https://github.com/user-attachments/assets/10ffee44-4bd4-4e2d-8fcf-1e4ca3b0e9f0" />
